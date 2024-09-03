@@ -1,11 +1,13 @@
 # 👋 Hi, I’m Ruhinda Roderick Izooba
 
-I'm a **graduating student of the ALX Software Engineering Program** with a passion for technology, design and problem-solving. My journey into software engineering began with this program, where I discovered my love for building user-centric apllications and creating efficient solutions.
+I’m a software engineer with a strong passion for technology, design, and problem-solving. My journey into software engineering began through rigorous training and hands-on experience, where I discovered my love for building user-centric applications and creating efficient solutions.
+
 ---
 
 ## 🌟 What Inspires Me
 
 I'm driven by the belief that technology can transform lives and solve real-world problems. I also believe when technology and design are combined, several possibilities that are opened and with a view to improving human day to day life and experience.
+
 ---
 
 ## 💻 Skills & Technologies
